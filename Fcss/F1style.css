@@ -329,7 +329,7 @@ section .box .colo:hover .list .content {
         align-items: center;
     }
     section .box {
-        margin: 20px;
+        margin: 5px;
         position: relative;
         width: 700px;
         display: flex;
@@ -393,8 +393,8 @@ section .box .colo:hover .list .content {
     align-items: center;
 }
 .preloader img {
-    width: 300px;
-    height: 300px;
+    width: 150px;
+    height: 150px;
     object-fit: cover;
 }
 .disppear {
