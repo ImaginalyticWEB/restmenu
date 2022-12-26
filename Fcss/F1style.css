@@ -330,6 +330,7 @@ section .box .colo:hover .list .content {
     }
     section .box {
         margin: 5px;
+        padding: 1px;
         position: relative;
         width: 700px;
         display: flex;
@@ -340,7 +341,7 @@ section .box .colo:hover .list .content {
         position: relative;
         padding: 0;
         border-radius: 8px;
-        margin: 10px 50px;
+        margin: 5px 5px;
     }
     section .box .colo .list {
         flex-direction: row;
