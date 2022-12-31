@@ -341,6 +341,7 @@ section .box .colo:hover .list .content {
         border-radius: 8px;
     }
     section .box .colo .list {
+        justify-content: left;
         flex-direction: row;
     }
     section .box .colo .list .imgbx {
