@@ -332,16 +332,13 @@ section .box .colo:hover .list .content {
         margin: 5px;
         padding: 1px;
         position: relative;
-        width: 700px;
+        width: 900px;
+        height: auto;
         display: flex;
         flex-direction: column;
     }
     section .box .colo {
-        display: flex;
-        position: relative;
-        padding: 0;
         border-radius: 8px;
-        margin: 5px 5px;
     }
     section .box .colo .list {
         flex-direction: row;
