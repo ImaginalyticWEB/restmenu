@@ -61,7 +61,6 @@ section .card1 .title {
 section .card1 .title .imgbx {
     width: 80px;
     height: 80px;
-    margin: 10px;
     position: relative;
     overflow: hidden;
 }
